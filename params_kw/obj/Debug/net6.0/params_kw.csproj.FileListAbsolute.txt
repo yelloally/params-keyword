@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/studying2.0/params_kw/bin/Debug/net6.0/params_kw
+/Users/yellobunny/Projects/studying2.0/params_kw/bin/Debug/net6.0/params_kw.deps.json
+/Users/yellobunny/Projects/studying2.0/params_kw/bin/Debug/net6.0/params_kw.runtimeconfig.json
+/Users/yellobunny/Projects/studying2.0/params_kw/bin/Debug/net6.0/params_kw.dll
+/Users/yellobunny/Projects/studying2.0/params_kw/bin/Debug/net6.0/params_kw.pdb
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.AssemblyInfo.cs
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.dll
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/refint/params_kw.dll
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.pdb
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/params_kw.genruntimeconfig.cache
+/Users/yellobunny/Projects/studying2.0/params_kw/obj/Debug/net6.0/ref/params_kw.dll

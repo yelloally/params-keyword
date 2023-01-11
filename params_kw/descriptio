@@ -1,0 +1,2 @@
+my code shows how the 'PARAMS' modifier works.
+It helps to implement the method so that we can always pass parameters, and no matter how many we pass them, our method will always work
